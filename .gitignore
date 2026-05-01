@@ -19,5 +19,5 @@ __pycache__/
 *.swp
 
 # Системные файлы
-Thumbs.db  # Windows
-.DS_Store  # macOS
+Thumbs.db
+tmp_data.txt
