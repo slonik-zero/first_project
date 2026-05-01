@@ -7,3 +7,5 @@ def print_autor():
     print(f"Autor: {autor}")
 
 print_autor()
+
+print(" ")
